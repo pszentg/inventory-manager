@@ -1,4 +1,4 @@
-# Zeiss-challenge
+# Challenge
 As a data engineer, you can't expect to always deal with data directly. Requests coming form stakeholders often require a certain level of expertise in programming to fulfill; moreover, the actual task to be undertaken can also be a bit obscure when first encountered.
 
 ## Details

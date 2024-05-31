@@ -1,4 +1,4 @@
-# Zeiss Challenge
+# Inventory manager
 
 ## Setup
 Run `source install.sh` from the project root. It will set up the virtual environment and install the required dependencies. If you want to run either the project or the tests, don't forget to export the root directory in your python path: `export PYTHONPATH=$PYTHONPATH:$(pwd)` and activate the virtual environment: `source .venv/bin/activate`
